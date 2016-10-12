@@ -1,6 +1,8 @@
-syntax on 
+syntax enable 
+"colorscheme elflord
 let g:hybrid_use_Xresources = 1
 colorscheme hybrid 
+"colorscheme molokai
 highlight ZenkakuSpace cterm=underline ctermfg=lightblue guibg=darkgray
 match ZenkakuSpace / /
 set background=dark
