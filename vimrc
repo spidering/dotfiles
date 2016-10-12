@@ -1,3 +1,5 @@
+"http://qiita.com/ahiruman5/items/4f3c845500c172a02935#-%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89%E8%A3%9C%E5%AE%8C
+
 "encoding
 set encoding=utf-8
 scriptencoding utf-8
